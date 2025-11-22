@@ -25,3 +25,6 @@ This project is a simple and modern one-page website built using pure **HTML** a
 ---
 
 ## 📂 Project Structure
+/
+│── index.html
+│── styles.css
